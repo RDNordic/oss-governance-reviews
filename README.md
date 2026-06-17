@@ -1,2 +1,18 @@
 # oss-governance-reviews
-Independent reviews of AI, agentic and developer tools from a privacy, governance and implementation perspective.
+
+A collection of independent reviews of AI, agentic, automation and developer tools.
+
+The focus is practical adoption, governance, privacy, security, transparency and implementation risk.
+
+These reviews are not security audits, legal advice or certifications.
+
+Review structure:
+
+- Purpose
+- Benefits
+- Risks
+- Governance observations
+- Suggested improvements
+- Upstream engagement
+
+Maintained by R&D Nordic.
